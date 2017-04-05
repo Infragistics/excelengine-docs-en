@@ -20,7 +20,7 @@
 
 This document enumerates all currently supported built-in excel functions. All listed functions can be exported and imported and their parameter counts can be verified.
 
-Functions marked as supported at runtime can be evaluated by the  pick:[win-forms=" link:infragistics4.documents.excel.v{ProductVersion}~infragistics.documents.excel.worksheetcell_members.html[WorksheetCell]"]  pick:[win-forms-old=" link:infragistics4.documents.excel.v{ProductVersion}~infragistics.documents.excel.worksheetcell_members.html[WorksheetCell]"]  pick:[asp-net=" link:infragistics4.webui.documents.excel.v{ProductVersion}~infragistics.documents.excel.worksheetcell_members.html[WorksheetCell]"]  pick:[aspnet-old=" link:infragistics4.webui.documents.excel.v{ProductVersion}~infragistics.documents.excel.worksheetcell_members.html[WorksheetCell]"]  instance owning the formula, and the calculated value can be obtained from the cell’s  _Value_   property.
+Functions marked as supported at runtime can be evaluated by the  pick:[win-forms=" link:{ApiPlatform}documents.excel{ApiVersion}~infragistics.documents.excel.worksheetcell_members.html[WorksheetCell]"]  pick:[win-forms-old=" link:{ApiPlatform}documents.excel{ApiVersion}~infragistics.documents.excel.worksheetcell_members.html[WorksheetCell]"]  pick:[asp-net=" link:{ApiPlatform}webui.documents.excel{ApiVersion}~infragistics.documents.excel.worksheetcell_members.html[WorksheetCell]"]  pick:[aspnet-old=" link:{ApiPlatform}webui.documents.excel{ApiVersion}~infragistics.documents.excel.worksheetcell_members.html[WorksheetCell]"]  instance owning the formula, and the calculated value can be obtained from the cell’s  _Value_   property.
 
 === Functions reference summary
 

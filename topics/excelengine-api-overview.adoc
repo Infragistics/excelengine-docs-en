@@ -18,28 +18,28 @@ This section lists each namespace that is relevant to the code library. We also 
 
 === Infragistics Excel Engine Namespace:
 
-pick:[win-forms="link:infragistics4.documents.excel.v{ProductVersion}~infragistics.documents.excel_namespace.html[Infragistics.Documents.Excel]"]
-pick:[asp-net="link:infragistics4.webui.documents.excel.v{ProductVersion}~infragistics.documents.excel_namespace.html[Infragistics.Documents.Excel]"]
+pick:[win-forms="link:{ApiPlatform}documents.excel{ApiVersion}~infragistics.documents.excel_namespace.html[Infragistics.Documents.Excel]"]
+pick:[asp-net="link:{ApiPlatform}webui.documents.excel{ApiVersion}~infragistics.documents.excel_namespace.html[Infragistics.Documents.Excel]"]
 
 === Key Classes:
 
-pick:[win-forms="link:infragistics4.documents.excel.v{ProductVersion}~infragistics.documents.excel.workbook.html[Workbook]"]
-pick:[asp-net="link:infragistics4.webui.documents.excel.v{ProductVersion}~infragistics.documents.excel.workbook.html[Workbook]"]
+pick:[win-forms="link:{ApiPlatform}documents.excel{ApiVersion}~infragistics.documents.excel.workbook.html[Workbook]"]
+pick:[asp-net="link:{ApiPlatform}webui.documents.excel{ApiVersion}~infragistics.documents.excel.workbook.html[Workbook]"]
 
-pick:[win-forms="link:infragistics4.documents.excel.v{ProductVersion}~infragistics.documents.excel.documentproperties.html[DocumentProperties]"]
-pick:[asp-net="link:infragistics4.webui.documents.excel.v{ProductVersion}~infragistics.documents.excel.documentproperties.html[DocumentProperties]"]
+pick:[win-forms="link:{ApiPlatform}documents.excel{ApiVersion}~infragistics.documents.excel.documentproperties.html[DocumentProperties]"]
+pick:[asp-net="link:{ApiPlatform}webui.documents.excel{ApiVersion}~infragistics.documents.excel.documentproperties.html[DocumentProperties]"]
 
-pick:[win-forms="link:infragistics4.documents.excel.v{ProductVersion}~infragistics.documents.excel.workbookwindowoptions.html[WorkbookWindowOptions]"]
-pick:[asp-net="link:infragistics4.webui.documents.excel.v{ProductVersion}~infragistics.documents.excel.workbookwindowoptions.html[WorkbookWindowOptions]"]
+pick:[win-forms="link:{ApiPlatform}documents.excel{ApiVersion}~infragistics.documents.excel.workbookwindowoptions.html[WorkbookWindowOptions]"]
+pick:[asp-net="link:{ApiPlatform}webui.documents.excel{ApiVersion}~infragistics.documents.excel.workbookwindowoptions.html[WorkbookWindowOptions]"]
 
-pick:[win-forms="link:infragistics4.documents.excel.v{ProductVersion}~infragistics.documents.excel.worksheet.html[Worksheet]"]
-pick:[asp-net="link:infragistics4.webui.documents.excel.v{ProductVersion}~infragistics.documents.excel.worksheet.html[Worksheet]"]
+pick:[win-forms="link:{ApiPlatform}documents.excel{ApiVersion}~infragistics.documents.excel.worksheet.html[Worksheet]"]
+pick:[asp-net="link:{ApiPlatform}webui.documents.excel{ApiVersion}~infragistics.documents.excel.worksheet.html[Worksheet]"]
 
-pick:[win-forms="link:infragistics4.documents.excel.v{ProductVersion}~infragistics.documents.excel.worksheetrow.html[WorksheetRow]"]
-pick:[asp-net="link:infragistics4.webui.documents.excel.v{ProductVersion}~infragistics.documents.excel.worksheetrow.html[WorksheetRow]"]
+pick:[win-forms="link:{ApiPlatform}documents.excel{ApiVersion}~infragistics.documents.excel.worksheetrow.html[WorksheetRow]"]
+pick:[asp-net="link:{ApiPlatform}webui.documents.excel{ApiVersion}~infragistics.documents.excel.worksheetrow.html[WorksheetRow]"]
 
-pick:[win-forms="link:infragistics4.documents.excel.v{ProductVersion}~infragistics.documents.excel.worksheetcolumn.html[WorksheetColumn]"]
-pick:[asp-net="link:infragistics4.webui.documents.excel.v{ProductVersion}~infragistics.documents.excel.worksheetcolumn.html[WorksheetColumn]"]
+pick:[win-forms="link:{ApiPlatform}documents.excel{ApiVersion}~infragistics.documents.excel.worksheetcolumn.html[WorksheetColumn]"]
+pick:[asp-net="link:{ApiPlatform}webui.documents.excel{ApiVersion}~infragistics.documents.excel.worksheetcolumn.html[WorksheetColumn]"]
 
-pick:[win-forms="link:infragistics4.documents.excel.v{ProductVersion}~infragistics.documents.excel.worksheetcell.html[WorksheetCell]"]
-pick:[asp-net="link:infragistics4.webui.documents.excel.v{ProductVersion}~infragistics.documents.excel.worksheetcell.html[WorksheetCell]"]
+pick:[win-forms="link:{ApiPlatform}documents.excel{ApiVersion}~infragistics.documents.excel.worksheetcell.html[WorksheetCell]"]
+pick:[asp-net="link:{ApiPlatform}webui.documents.excel{ApiVersion}~infragistics.documents.excel.worksheetcell.html[WorksheetCell]"]

@@ -16,7 +16,7 @@
 
 === Description
 
-The code below returns a Workbook object, containing a  pick:[win-forms=" link:infragistics4.documents.excel.v{ProductVersion}~infragistics.documents.excel.worksheettable_members.html[WorksheetTable]"]  pick:[win-forms-old=" link:infragistics4.documents.excel.v{ProductVersion}~infragistics.documents.excel.worksheettable_members.html[WorksheetTable]"]  pick:[asp-net=" link:infragistics4.webui.documents.excel.v{ProductVersion}~infragistics.documents.excel.worksheettable_members.html[WorksheetTable]"]  pick:[aspnet-old=" link:infragistics4.webui.documents.excel.v{ProductVersion}~infragistics.documents.excel.worksheettable_members.html[WorksheetTable]"]  named  _Patients_  . This table is used in several code examples.
+The code below returns a Workbook object, containing a  pick:[win-forms=" link:{ApiPlatform}documents.excel{ApiVersion}~infragistics.documents.excel.worksheettable_members.html[WorksheetTable]"]  pick:[win-forms-old=" link:{ApiPlatform}documents.excel{ApiVersion}~infragistics.documents.excel.worksheettable_members.html[WorksheetTable]"]  pick:[asp-net=" link:{ApiPlatform}webui.documents.excel{ApiVersion}~infragistics.documents.excel.worksheettable_members.html[WorksheetTable]"]  pick:[aspnet-old=" link:{ApiPlatform}webui.documents.excel{ApiVersion}~infragistics.documents.excel.worksheettable_members.html[WorksheetTable]"]  named  _Patients_  . This table is used in several code examples.
 
 === Code
 
